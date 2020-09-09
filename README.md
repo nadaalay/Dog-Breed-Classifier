@@ -5,7 +5,7 @@ This project is a part of Udacity Deep Learning nanodegree. The goal of this pro
 
 
 ## Code
-The code is provided in the Image `dog_app.ipynb` file. The project also includes `test_images` folder that contains images for testing.
+The code is provided in the `dog_app.ipynb` file. The project also includes `test_images` folder that contains images for testing.
 
 
 ## Data
